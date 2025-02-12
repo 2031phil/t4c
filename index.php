@@ -11,7 +11,9 @@
 
 <?php
 
-
+if (/$GET['page'] == 1) {
+    echo "Hello World";
+}
 
 ?>
 </body>
